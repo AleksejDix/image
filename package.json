@@ -24,14 +24,14 @@
     "test": "yarn lint"
   },
   "dependencies": {
-    "@nuxt/kit": "^3.0.0-rc.10",
+    "@nuxt/kit": "^3.0.0-rc.11",
     "consola": "^2.15.3",
     "defu": "^6.1.0",
     "h3": "^0.7.21",
     "image-meta": "^0.1.1",
-    "node-fetch-native": "^0.1.4",
+    "node-fetch-native": "^0.1.7",
     "ohash": "^0.1.5",
-    "pathe": "^0.3.7",
+    "pathe": "^0.3.8",
     "ufo": "^0.8.5"
   },
   "devDependencies": {
@@ -39,7 +39,7 @@
     "@nuxtjs/eslint-config-typescript": "latest",
     "eslint": "latest",
     "jiti": "latest",
-    "nuxt": "^3.0.0-rc.10",
+    "nuxt": "^3.0.0-rc.11",
     "standard-version": "latest",
     "typescript": "latest"
   },
